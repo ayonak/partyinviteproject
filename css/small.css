@@ -2,6 +2,10 @@ section:nth-child(2n) {
   background: lightgrey;
 }
 
+body {
+	background: white;
+}
+
 .container {
 	width: 100%;
 	margin: 0;
