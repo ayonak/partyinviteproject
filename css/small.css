@@ -1,0 +1,32 @@
+section:nth-child(2n) {
+  background: lightgrey;
+}
+
+.container {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.ball img {
+		border-radius: 0;
+	}
+
+.intro, .contact, .entertainment {
+  padding: 2.5rem;
+  width: 100%;
+  margin: 0 0 0 0;
+}
+
+.right, .left {
+	text-align: center;
+	float: inherit;
+}
+
+.start {
+  margin: 0 0 1.25rem 0;
+}
+
+.address {
+  margin: 0 0 1.25rem 0;
+}
